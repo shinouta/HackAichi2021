@@ -1,6 +1,10 @@
 # HackAichi2021
 HackAichiで担当した機械学習のコード
 
+modelモジュールをimport
+↓
+1分毎のキーログを渡して, 機械学習の結果を表示させる.
+
 ```
 .
 ├── README.md
